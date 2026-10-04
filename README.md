@@ -1,82 +1,122 @@
-# Hi there! 👋 I'm Roopam Gupta
+# Hi, I'm Roopam Gupta 👋
 
-🎓 MCA Student  
-💻 Aspiring Software Developer & Data Analyst  
-🌱 Currently learning Java, DSA, Web Development, and Data Analytics
+### 🐍 Python Developer | 📊 Data Analyst | 🎓 MCA Student
+
+I'm an MCA student focused on **Python Development, Data Analytics, SQL, and Backend Development**.
+
+I enjoy building practical applications, working with databases, analyzing data, and solving programming problems using Python.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing Master of Computer Applications (MCA)
-- 💻 Passionate about Software Development and Data Analytics
-- 🌱 Currently improving my skills in Java, SQL, Python, and Web Development
-- 🎯 Goal: Become a Software Developer / Data Analyst
+* 🎓 Pursuing **Master of Computer Applications (MCA)**
+* 🐍 Focused on **Python Development**
+* 📊 Interested in **Data Analysis and Data-driven problem solving**
+* 🗄️ Working with **SQL and MySQL**
+* ⚡ Building backend APIs using **FastAPI**
+* 💻 Practicing Python programming and problem solving
+* 🔨 Building practical projects to strengthen my development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Java
-- Python
-- SQL
-- JavaScript
+### Programming
 
-### Web Technologies
-- HTML
-- CSS
+* Python
+* Java
+* JavaScript
 
-### Database
-- MySQL
-- JDBC
+### Data Analytics
+
+* Pandas
+* NumPy
+* SQL
+* Excel
+* Data Cleaning & Analysis
+* Data Visualization
+
+### Backend & Database
+
+* FastAPI
+* MySQL
+* JDBC
+
+### Web
+
+* HTML
+* CSS
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-- Excel
+
+* Git
+* GitHub
+* VS Code
+* IntelliJ IDEA
+* Jupyter Notebook
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### 🚌 Bus Travel Agency Management System
-- Java
-- JDBC
-- MySQL
 
-### 📊 SQL Practice
-- Joins
-- Subqueries
-- Window Functions
-- Stored Procedures
+**Java | JDBC | MySQL**
 
-### 🐍 Python Practice
-- Problem Solving
-- File Handling
-- OOP
-- NumPy
+Console-based management system implementing:
+
+* CRUD operations
+* DAO design pattern
+* Database connectivity
+* Input validation
+* Exception handling
+
+### 🐍 Python Projects
+
+Working on practical Python projects covering:
+
+* Python programming
+* OOP
+* File handling
+* Problem solving
+* Data processing
+
+### 📊 Data Analytics Projects
+
+Building projects involving:
+
+* Data cleaning
+* Exploratory Data Analysis (EDA)
+* Pandas & NumPy
+* SQL analysis
+* Data visualization
+* Real-world datasets
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Advanced Java
-- Git & GitHub
-- Data Analytics
-- Power BI
+* Advanced Python
+* Data Analytics
+* SQL & Database Management
+* FastAPI & REST APIs
+* Data Visualization
+* Git & GitHub
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a strong **Python Developer and Data Analyst** by continuously building real-world projects, improving my problem-solving skills, and working with practical datasets and applications.
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/roopam-gupta-586208225/
-- 📧 Email: karanveer2515@gmail.com
+* 💼 LinkedIn: [Roopam Gupta](https://www.linkedin.com/in/roopam-gupta-586208225/)
+* 📧 Email: [karanveer2515@gmail.com](mailto:karanveer2515@gmail.com)
 
 ---
 
-⭐ *"Keep Learning, Keep Building."*
+⭐ *Keep Learning. Keep Building. Keep Improving.*
