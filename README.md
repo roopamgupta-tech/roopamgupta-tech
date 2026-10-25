@@ -1,122 +1,123 @@
-# Hi, I'm Roopam Gupta 👋
+<div align="center">
 
-### 🐍 Python Developer | 📊 Data Analyst | 🎓 MCA Student
+# 👋 Hi, I'm Roopam Gupta
 
-I'm an MCA student focused on **Python Development, Data Analytics, SQL, and Backend Development**.
+### 🤖 AI Enthusiast | 🛡️ Cybersecurity Learner | 💻 Python Programmer
 
-I enjoy building practical applications, working with databases, analyzing data, and solving programming problems using Python.
+**Exploring Artificial Intelligence, Ethical Hacking & Secure Digital Technologies**
 
----
+<br>
 
-## 🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/roopamgupta-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roopam-gupta-586208225/)
 
-* 🎓 Pursuing **Master of Computer Applications (MCA)**
-* 🐍 Focused on **Python Development**
-* 📊 Interested in **Data Analysis and Data-driven problem solving**
-* 🗄️ Working with **SQL and MySQL**
-* ⚡ Building backend APIs using **FastAPI**
-* 💻 Practicing Python programming and problem solving
-* 🔨 Building practical projects to strengthen my development skills
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I'm an MCA student passionate about **Artificial Intelligence, Cybersecurity, and Ethical Hacking**.
+
+I enjoy exploring how intelligent systems work, understanding cybersecurity concepts, and developing my programming skills through practical projects.
+
+- 🎓 Pursuing Master of Computer Applications (MCA)
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🛡️ Learning Cybersecurity and Ethical Hacking
+- 🐧 Exploring Linux, networking, and security tools
+- 🐍 Practicing Python programming and automation
+- 🚀 Building projects to strengthen my technical knowledge
+
+**My goal:** To develop strong expertise in AI and Cybersecurity and build intelligent, secure, and practical technology solutions.
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-* Python
-* Java
-* JavaScript
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Data Analytics
-
-* Pandas
-* NumPy
-* SQL
-* Excel
-* Data Cleaning & Analysis
-* Data Visualization
-
-### Backend & Database
-
-* FastAPI
-* MySQL
-* JDBC
-
-### Web
-
-* HTML
-* CSS
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* IntelliJ IDEA
-* Jupyter Notebook
+### Cybersecurity & Development Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🛡️ Cybersecurity Interests
 
-### 🚌 Bus Travel Agency Management System
+- Ethical Hacking & Penetration Testing
+- Network Security
+- Linux Security
+- Vulnerability Assessment
+- Security Automation with Python
+- AI Applications in Cybersecurity
 
-**Java | JDBC | MySQL**
+*Currently developing my knowledge through hands-on labs, authorized security testing, and continuous learning.*
 
-Console-based management system implementing:
+---
 
-* CRUD operations
-* DAO design pattern
-* Database connectivity
-* Input validation
-* Exception handling
+## 🤖 AI & Machine Learning Interests
 
-### 🐍 Python Projects
+- Artificial Intelligence Fundamentals
+- Machine Learning
+- Generative AI
+- Python-Based AI Applications
+- AI-Assisted Cybersecurity
 
-Working on practical Python projects covering:
+---
 
-* Python programming
-* OOP
-* File handling
-* Problem solving
-* Data processing
+## 🚀 Projects
 
-### 📊 Data Analytics Projects
+I'm working toward building practical projects that demonstrate my programming, AI, and cybersecurity skills.
 
-Building projects involving:
+Explore my repositories:
 
-* Data cleaning
-* Exploratory Data Analysis (EDA)
-* Pandas & NumPy
-* SQL analysis
-* Data visualization
-* Real-world datasets
+**[📂 View My GitHub Projects](https://github.com/roopamgupta-tech?tab=repositories)**
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced Python
-* Data Analytics
-* SQL & Database Management
-* FastAPI & REST APIs
-* Data Visualization
-* Git & GitHub
+- Cybersecurity fundamentals and ethical hacking
+- Linux commands and networking
+- Python programming and automation
+- Artificial Intelligence and Machine Learning concepts
+- Git, GitHub, and project development
 
 ---
 
-## 🎯 Career Goal
+## 📊 GitHub Statistics
 
-My goal is to become a strong **Python Developer and Data Analyst** by continuously building real-world projects, improving my problem-solving skills, and working with practical datasets and applications.
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roopamgupta-tech&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roopamgupta-tech&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-* 💼 LinkedIn: [Roopam Gupta](https://www.linkedin.com/in/roopam-gupta-586208225/)
-* 📧 Email: [karanveer2515@gmail.com](mailto:karanveer2515@gmail.com)
+- **GitHub:** [roopamgupta-tech](https://github.com/roopamgupta-tech)
+- **LinkedIn:** [Roopam Gupta](https://www.linkedin.com/in/roopam-gupta-586208225/)
 
 ---
 
-⭐ *Keep Learning. Keep Building. Keep Improving.*
+<div align="center">
+
+### 💡 Learn Continuously. Build Intelligently. Secure the Future.
+
+*Thanks for visiting my profile! ⭐*
+
+</div>
