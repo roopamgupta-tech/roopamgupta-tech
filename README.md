@@ -113,15 +113,6 @@ A RESTful API built using Python, FastAPI, and Pydantic for managing book record
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roopamgupta-tech&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roopamgupta-tech&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
