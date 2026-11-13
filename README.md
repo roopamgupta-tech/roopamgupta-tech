@@ -1,12 +1,10 @@
-<div align="center">
-
 # 👋 Hi, I'm Roopam Gupta
 
-### 🤖 AI Enthusiast | 🛡️ Cybersecurity Learner | 💻 Python Programmer
+### 💻 Python Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI Enthusiast
 
-**Exploring Artificial Intelligence, Ethical Hacking & Secure Digital Technologies**
+**Building practical applications and exploring secure, intelligent technologies.**
 
-<br>
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/roopamgupta-tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roopam-gupta-586208225/)
@@ -17,34 +15,43 @@
 
 ## 👨‍💻 About Me
 
-I'm an MCA student passionate about **Artificial Intelligence, Cybersecurity, and Ethical Hacking**.
+I'm an MCA student with an academic background in Mathematics, passionate about Python development, Artificial Intelligence, and Cybersecurity.
 
-I enjoy exploring how intelligent systems work, understanding cybersecurity concepts, and developing my programming skills through practical projects.
+I enjoy learning new technologies, solving problems, and building practical projects to strengthen my development skills.
 
 - 🎓 Pursuing Master of Computer Applications (MCA)
+- 🐍 Interested in Python and Backend Development
+- ⚡ Learning FastAPI and REST API development
+- 🛡️ Exploring Cybersecurity and Ethical Hacking
+- 🐧 Learning Linux, networking, and system security
 - 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🛡️ Learning Cybersecurity and Ethical Hacking
-- 🐧 Exploring Linux, networking, and security tools
-- 🐍 Practicing Python programming and automation
-- 🚀 Building projects to strengthen my technical knowledge
+- 🚀 Building practical projects and improving my programming skills
 
-**My goal:** To develop strong expertise in AI and Cybersecurity and build intelligent, secure, and practical technology solutions.
+**My Goal:** To become a skilled technology professional and build useful, secure, and intelligent applications.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Programming
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Cybersecurity & Development Tools
+### Backend Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### Tools & Platforms
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -52,16 +59,35 @@ I enjoy exploring how intelligent systems work, understanding cybersecurity conc
 
 ---
 
+## 🚀 Featured Projects
+
+### 📚 BookStore REST API
+
+A RESTful API built using Python, FastAPI, and Pydantic for managing book records.
+
+**Features:**
+- Create, Read, Update, and Delete (CRUD) operations
+- Pydantic request validation
+- HTTP exception handling and status codes
+- Search and filter books by title and author
+- Automatic API documentation using Swagger UI
+
+**Technologies:** Python, FastAPI, Pydantic
+
+🔗 [View Project on GitHub](https://github.com/roopamgupta-tech/BookStore-REST-API)
+
+---
+
 ## 🛡️ Cybersecurity Interests
 
-- Ethical Hacking & Penetration Testing
+- Ethical Hacking and Penetration Testing
 - Network Security
 - Linux Security
 - Vulnerability Assessment
 - Security Automation with Python
 - AI Applications in Cybersecurity
 
-*Currently developing my knowledge through hands-on labs, authorized security testing, and continuous learning.*
+*Learning through hands-on labs and authorized security testing.*
 
 ---
 
@@ -75,23 +101,15 @@ I enjoy exploring how intelligent systems work, understanding cybersecurity conc
 
 ---
 
-## 🚀 Projects
-
-I'm working toward building practical projects that demonstrate my programming, AI, and cybersecurity skills.
-
-Explore my repositories:
-
-**[📂 View My GitHub Projects](https://github.com/roopamgupta-tech?tab=repositories)**
-
----
-
 ## 📚 Currently Learning
 
-- Cybersecurity fundamentals and ethical hacking
-- Linux commands and networking
-- Python programming and automation
-- Artificial Intelligence and Machine Learning concepts
-- Git, GitHub, and project development
+- FastAPI and Backend Development
+- REST API Design and Development
+- SQL and Database Management
+- Python Programming and Automation
+- Linux and Computer Networking
+- Cybersecurity Fundamentals
+- Git and GitHub
 
 ---
 
